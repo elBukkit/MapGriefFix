@@ -1,0 +1,6 @@
+name: MapGriefFix
+main: com.elmakers.mine.bukkit.plugins.MapGriefFix
+version: 1.0
+website: http://mine.elmakers.com
+author: NathanWolf
+description: Remove server-crashing griefed maps
